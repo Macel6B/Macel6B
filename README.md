@@ -4,12 +4,12 @@
 ---
 
 <p align="center">
-  <img src="https://your-banner-image-url-here.com/banner.png" alt="Mini Banner" width="80%" />
+  <img src="https://github.com/Macel6B/Macel6B/blob/main/assets/_0e3b66f0-e29d-4f6a-a192-452b4c5de450.png" alt="Mini Banner" width="80%" />
 </p>
 
 ## 👤 Bio
 
-Soy un **Desarrollador Fullstack** de aplicaciones web y tecnologías, con experiencia en:
+Soy un **Desarrollador Fullstack** de aplicaciones web, con experiencia en:
 
 - Arquitectura de microservicios y APIs RESTful
 - Programación orientada a objetos (POO)
@@ -22,6 +22,7 @@ Actualmente me estoy especializando en **DevOps** para aprender a:
 - Operar servidores
 
 Me considero una persona motivada, resiliente y adaptable a entornos técnicos exigentes, con iniciativa y habilidades interpersonales.
+**Como puedes ver me encantan los perros, han sido una gran fuente de motivación y sutileza en mi vida, les agradezco siempre recordarme no dejar de divertirme y jugar en la vida.**
 
 ---
 
@@ -89,8 +90,4 @@ Aplicación de sitio web responsivo que incluye secciones como:
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?raw=true" alt="Banner animado" width="80%" />
-</p>
 
