@@ -1,11 +1,10 @@
-<h1 align="center">👋 Bienvenidx a mi espacio digital de creación</h1>
-<p align="center">Por <b>Macel Bayardi</b></p>
-
----
-
 <p align="center">
   <img src="https://github.com/Macel6B/Macel6B/blob/main/assets/_0e3b66f0-e29d-4f6a-a192-452b4c5de450.png" alt="Mini Banner" width="80%" />
 </p>
+---
+<h1 align="center">👋 Bienvenidx a mi espacio digital de creación</h1>
+<p align="center">Por <b>Macel Bayardi</b></p>
+---
 
 ## 👤 Bio
 
